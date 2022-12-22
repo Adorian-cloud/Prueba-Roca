@@ -1,5 +1,5 @@
 /*
-Adorian Studios presenta
+Adorian presenta
 Roca 
 "La evolucion de una roca puede ser emocionante"-Adorian 
 Programa sobre una roca creciendo 

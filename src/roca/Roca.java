@@ -1,6 +1,6 @@
 /*
 Adorian presenta
-Roca 
+-Roca- 
 "La evolucion de una roca puede ser emocionante"-Adorian 
 Programa sobre una roca creciendo 
 Inicio del proyecto:09/10/2020
